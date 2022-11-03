@@ -1,0 +1,1 @@
+#### To study basic logic ICs and verify their truth tables.  
