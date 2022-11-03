@@ -1,1 +1,1 @@
-## Experiment name
+## Familiarisation of logic gate ICs.
