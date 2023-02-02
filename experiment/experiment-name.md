@@ -1,1 +1,1 @@
-## Familiarisation of logic gate ICs.
+## Familiarisation of ICs.
