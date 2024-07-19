@@ -63,11 +63,11 @@ In1964, Texas instruments introduced transistor-transistor logic, a widely used 
 The most popular transistor-transistor logic (TTL) in use includes the 7400 and the 74LS00 families: resistors, diodes and BJT’s are the elements used to construct these circuits. The 74C00 and the 74HC00 are the most widely used CMOS families. They use two different types of MOSFETs.
 
 7400 TTL series devices are guaranteed to work reliably over a temperature range of 0 to 70°C and over a supply range of 4.75 to 5.25 volts. The NAND gate is the backbone of the 7400 TTL series because most devices in this family are derived from it. Because of its central role in TTL technology, the NAND gate has become the least expensive and most widely used TTL gate. Furthermore, the NAND gate is available in more configurations than other gates, as shown in table below. The NAND gate is available as a 2-, 3-, 4-, or 8-input gate. The other gates have fewer configurations.
-<div Style="text-align:center"> 
+<center><div Style="text-align:center"> 
 
 **Table 1: Standard TTL Gates**
 
-<center><table style="text-align:center;color:black;">
+<table style="text-align:center;color:black;">
 <tr>
 <th style="border:1px solid black;font-size:120%;border-collapse:collapse;">TYPE</th>
 <th style="border:1px solid black;font-size:120%;border-collapse:collapse;">QUAD<br>2 INPUT</th>
@@ -107,8 +107,8 @@ The most popular transistor-transistor logic (TTL) in use includes the 7400 and 
 <td style="border:1px solid black;font-size:130%;border-collapse:collapse;"></td>
 <td style="border:1px solid black;font-size:130%;border-collapse:collapse;"></td>
 </tr>
-</table></center>
-</div>
+</table>
+</div></center>
 
 ### **BASIC LOGIC GATES:**
 
