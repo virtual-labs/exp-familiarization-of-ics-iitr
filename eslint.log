@@ -1,0 +1,1196 @@
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/excanvas.js
+   79:25  warning  'var_args' is defined but never used                                no-unused-vars
+  477:48  warning  'var_args' is defined but never used                                no-unused-vars
+  523:9   warning  'w2' is assigned a value but never used                             no-unused-vars
+  524:9   warning  'h2' is assigned a value but never used                             no-unused-vars
+  587:9   warning  'lineOpen' is assigned a value but never used                       no-unused-vars
+  602:9   warning  'newSeq' is assigned a value but never used                         no-unused-vars
+  612:11  warning  'c' is assigned a value but never used                              no-unused-vars
+  713:13  warning  'p0' is already defined                                             no-redeclare
+  742:16  warning  'i' is already defined                                              no-redeclare
+  917:3   warning  'G_vmlCanvasManager' is not defined                                 no-undef
+  918:3   warning  Read-only global 'CanvasRenderingContext2D' should not be modified  no-global-assign
+  919:3   warning  Read-only global 'CanvasGradient' should not be modified            no-global-assign
+  920:3   warning  Read-only global 'CanvasPattern' should not be modified             no-global-assign
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/graph.js
+    2:7   warning  'Graph' is defined but never used  no-unused-vars
+   82:22  warning  'i' is already defined             no-redeclare
+  111:21  warning  'd3' is not defined                no-undef
+  130:22  warning  'i' is already defined             no-redeclare
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery-latest.js
+  2:811    warning  Empty block statement                                            no-empty
+  2:868    warning  Empty block statement                                            no-empty
+  2:4552   warning  'b' is defined but never used                                    no-unused-vars
+  2:4958   warning  'd' is defined but never used                                    no-unused-vars
+  2:5134   warning  'd' is defined but never used                                    no-unused-vars
+  2:5848   warning  Empty block statement                                            no-empty
+  2:6249   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6344   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6429   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6479   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6518   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10017  warning  Empty block statement                                            no-empty
+  2:11094  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14518  warning  'i' is defined but never used                                    no-unused-vars
+  2:16933  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17226  warning  'l' is defined but never used                                    no-unused-vars
+  2:17259  warning  'q' is assigned a value but never used                           no-unused-vars
+  2:19193  warning  'h' is defined but never used                                    no-unused-vars
+  2:21605  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:22132  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24993  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25767  warning  Empty block statement                                            no-empty
+  2:26864  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:27314  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:32232  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:32375  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32391  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:424    warning  'q' is defined but never used                                    no-unused-vars
+  3:4052   warning  'u' is defined but never used                                    no-unused-vars
+  3:7877   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:12581  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12607  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12632  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:14388  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15625  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15745  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15786  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15836  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15886  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15950  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15997  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16069  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16082  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16100  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16181  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16218  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:16248  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:16257  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:16259  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:16579  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17959  warning  'b' is defined but never used                                    no-unused-vars
+  3:18114  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20766  warning  'h' is defined but never used                                    no-unused-vars
+  3:20822  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20897  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20914  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:22051  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:22063  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:24619  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24632  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:25041  warning  Empty block statement                                            no-empty
+  3:25323  warning  Empty block statement                                            no-empty
+  3:25704  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25885  warning  Empty block statement                                            no-empty
+  3:26743  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:27138  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:27140  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:30238  warning  'd' is defined but never used                                    no-unused-vars
+  3:30926  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30928  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:1264   warning  Empty block statement                                            no-empty
+  4:5857   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5924   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5932   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6927   warning  Empty block statement                                            no-empty
+  4:9555   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9567   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9759   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:9761   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:9763   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:9779   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:10861  warning  'c' is defined but never used                                    no-unused-vars
+  4:12193  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12255  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:13142  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:15501  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:15695  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:15700  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:15706  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17875  warning  Empty block statement                                            no-empty
+  4:18193  warning  Empty block statement                                            no-empty
+  4:18520  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:18532  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:25668  warning  Empty block statement                                            no-empty
+  4:26520  warning  'g' is assigned a value but never used                           no-unused-vars
+  4:29523  warning  'define' is not defined                                          no-undef
+  4:29535  warning  'define' is not defined                                          no-undef
+  4:29554  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery-ui-latest.js
+  6:4334    warning  'jQuery' is not defined                                                    no-undef
+  6:4502    warning  Empty block statement                                                      no-empty
+  6:5730    warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  6:10862   warning  'jQuery' is not defined                                                    no-undef
+  6:10882   warning  't' is defined but never used                                              no-unused-vars
+  6:10923   warning  'e' is defined but never used                                              no-unused-vars
+  6:13416   warning  'e' is defined but never used                                              no-unused-vars
+  6:13467   warning  'e' is defined but never used                                              no-unused-vars
+  6:13492   warning  'e' is defined but never used                                              no-unused-vars
+  6:13517   warning  'e' is defined but never used                                              no-unused-vars
+  6:13545   warning  'e' is defined but never used                                              no-unused-vars
+  6:13562   warning  'jQuery' is not defined                                                    no-undef
+  6:13846   warning  Unnecessary escape character: \+                                           no-useless-escape
+  6:13848   warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:20030   warning  'jQuery' is not defined                                                    no-undef
+  6:20040   warning  'jQuery' is not defined                                                    no-undef
+  6:20060   warning  't' is defined but never used                                              no-unused-vars
+  6:27008   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:27851   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:30353   warning  'e' is defined but never used                                              no-unused-vars
+  6:31431   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:31648   warning  's' is defined but never used                                              no-unused-vars
+  6:33487   warning  't' is defined but never used                                              no-unused-vars
+  6:33489   warning  'n' is defined but never used                                              no-unused-vars
+  6:33629   warning  't' is defined but never used                                              no-unused-vars
+  6:33631   warning  'n' is defined but never used                                              no-unused-vars
+  6:34076   warning  't' is defined but never used                                              no-unused-vars
+  6:34078   warning  'n' is defined but never used                                              no-unused-vars
+  6:34237   warning  'n' is defined but never used                                              no-unused-vars
+  6:35658   warning  't' is defined but never used                                              no-unused-vars
+  6:35660   warning  'n' is defined but never used                                              no-unused-vars
+  6:37145   warning  'v' is already defined                                                     no-redeclare
+  6:37164   warning  'm' is already defined                                                     no-redeclare
+  6:37183   warning  'g' is already defined                                                     no-redeclare
+  6:37202   warning  'y' is already defined                                                     no-redeclare
+  6:37882   warning  't' is defined but never used                                              no-unused-vars
+  6:37884   warning  'n' is defined but never used                                              no-unused-vars
+  6:38486   warning  'jQuery' is not defined                                                    no-undef
+  6:38506   warning  't' is defined but never used                                              no-unused-vars
+  6:44199   warning  'jQuery' is not defined                                                    no-undef
+  6:44219   warning  't' is defined but never used                                              no-unused-vars
+  6:49636   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:49651   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:49656   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:51574   warning  't' is assigned a value but never used                                     no-unused-vars
+  6:51801   warning  't' is defined but never used                                              no-unused-vars
+  6:51808   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:52127   warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:52161   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:52874   warning  't' is assigned a value but never used                                     no-unused-vars
+  6:54049   warning  'n' is defined but never used                                              no-unused-vars
+  6:54108   warning  'n' is defined but never used                                              no-unused-vars
+  6:54115   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:54235   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:55216   warning  't' is defined but never used                                              no-unused-vars
+  6:55218   warning  'n' is defined but never used                                              no-unused-vars
+  6:56296   warning  't' is defined but never used                                              no-unused-vars
+  6:56298   warning  'n' is defined but never used                                              no-unused-vars
+  6:56402   warning  'n' is defined but never used                                              no-unused-vars
+  6:57275   warning  't' is defined but never used                                              no-unused-vars
+  6:57277   warning  'r' is defined but never used                                              no-unused-vars
+  6:58171   warning  'n' is defined but never used                                              no-unused-vars
+  6:58218   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:58256   warning  'u' is assigned a value but never used                                     no-unused-vars
+  6:59442   warning  't' is defined but never used                                              no-unused-vars
+  6:59444   warning  'n' is defined but never used                                              no-unused-vars
+  6:59491   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:59951   warning  't' is defined but never used                                              no-unused-vars
+  6:59953   warning  'n' is defined but never used                                              no-unused-vars
+  6:60279   warning  't' is defined but never used                                              no-unused-vars
+  6:60281   warning  'n' is defined but never used                                              no-unused-vars
+  6:60316   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:60427   warning  't' is defined but never used                                              no-unused-vars
+  6:60429   warning  'n' is defined but never used                                              no-unused-vars
+  6:60464   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:60596   warning  'n' is defined but never used                                              no-unused-vars
+  6:60699   warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:61356   warning  'jQuery' is not defined                                                    no-undef
+  6:61376   warning  't' is defined but never used                                              no-unused-vars
+  6:63528   warning  'a' is already defined                                                     no-redeclare
+  6:64725   warning  'r' is assigned a value but never used                                     no-unused-vars
+  6:65266   warning  'jQuery' is not defined                                                    no-undef
+  6:65286   warning  't' is defined but never used                                              no-unused-vars
+  6:66582   warning  's' is assigned a value but never used                                     no-unused-vars
+  6:75591   warning  's' is already defined                                                     no-redeclare
+  6:76448   warning  's' is already defined                                                     no-redeclare
+  6:76503   warning  'u' is already defined                                                     no-redeclare
+  6:77206   warning  'n' is already defined                                                     no-redeclare
+  6:77247   warning  's' is already defined                                                     no-redeclare
+  6:83669   warning  'i' is assigned a value but never used                                     no-unused-vars
+  6:87278   warning  'i' is already defined                                                     no-redeclare
+  6:87959   warning  'i' is already defined                                                     no-redeclare
+  6:88267   warning  'i' is already defined                                                     no-redeclare
+  6:88681   warning  'jQuery' is not defined                                                    no-undef
+  6:88701   warning  't' is defined but never used                                              no-unused-vars
+  6:96862   warning  'jQuery' is not defined                                                    no-undef
+  6:96869   warning  'jQuery' is not defined                                                    no-undef
+  6:97440   warning  'jQuery' is not defined                                                    no-undef
+  6:97447   warning  'jQuery' is not defined                                                    no-undef
+  6:97759   warning  'jQuery' is not defined                                                    no-undef
+  6:97766   warning  'jQuery' is not defined                                                    no-undef
+  6:98004   warning  'jQuery' is not defined                                                    no-undef
+  6:98011   warning  'jQuery' is not defined                                                    no-undef
+  6:98042   warning  'jQuery' is not defined                                                    no-undef
+  6:98079   warning  'jQuery' is not defined                                                    no-undef
+  6:98550   warning  'jQuery' is not defined                                                    no-undef
+  6:98557   warning  'jQuery' is not defined                                                    no-undef
+  6:98920   warning  'jQuery' is not defined                                                    no-undef
+  6:98927   warning  'jQuery' is not defined                                                    no-undef
+  6:98961   warning  'jQuery' is not defined                                                    no-undef
+  6:98981   warning  't' is defined but never used                                              no-unused-vars
+  6:105891  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:105893  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:105908  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:106513  warning  'jQuery' is not defined                                                    no-undef
+  6:106533  warning  't' is defined but never used                                              no-unused-vars
+  6:113557  warning  'jQuery' is not defined                                                    no-undef
+  6:113577  warning  Shadowing of global property 'undefined'                                   no-shadow-restricted-names
+  6:128222  warning  Redundant double negation                                                  no-extra-boolean-cast
+  6:133176  warning  'n' is assigned a value but never used                                     no-unused-vars
+  6:135614  warning  'b' is already defined                                                     no-redeclare
+  6:136053  warning  Unexpected constant condition                                              no-constant-condition
+  6:136061  warning  'b' is already defined                                                     no-redeclare
+  6:138879  warning  Empty block statement                                                      no-empty
+  6:143727  warning  'k' is assigned a value but never used                                     no-unused-vars
+  6:143947  warning  'P' is assigned a value but never used                                     no-unused-vars
+  6:145401  warning  'W' is already defined                                                     no-redeclare
+  6:151017  warning  'jQuery' is not defined                                                    no-undef
+  6:162116  warning  'jQuery' is not defined                                                    no-undef
+  6:162136  warning  't' is defined but never used                                              no-unused-vars
+  6:164694  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:164696  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:164711  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:171166  warning  'jQuery' is not defined                                                    no-undef
+  6:172585  warning  'jQuery' is not defined                                                    no-undef
+  6:172605  warning  't' is defined but never used                                              no-unused-vars
+  6:182333  warning  'jQuery' is not defined                                                    no-undef
+  6:187539  warning  'Globalize' is not defined                                                 no-undef
+  6:187697  warning  'Globalize' is not defined                                                 no-undef
+  6:188810  warning  'jQuery' is not defined                                                    no-undef
+  6:192418  warning  Unnecessary escape character: \/                                           no-useless-escape
+  6:192427  warning  Unnecessary escape character: \[                                           no-useless-escape
+  6:192431  warning  Unnecessary escape character: \^                                           no-useless-escape
+  6:194870  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:200944  warning  Empty block statement                                                      no-empty
+  6:203809  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:207135  warning  'jQuery' is not defined                                                    no-undef
+  6:211821  warning  'jQuery' is not defined                                                    no-undef
+  6:211829  warning  'jQuery' is not defined                                                    no-undef
+  6:212641  warning  Unnecessary escape character: \-                                           no-useless-escape
+  6:212834  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:212858  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:212882  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:213297  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:213321  warning  Unnecessary escape character: \%                                           no-useless-escape
+  6:217671  warning  Empty block statement                                                      no-empty
+  6:217762  warning  Empty block statement                                                      no-empty
+  6:218378  warning  'jQuery' is not defined                                                    no-undef
+  6:219142  warning  'jQuery' is not defined                                                    no-undef
+  6:219647  warning  'jQuery' is not defined                                                    no-undef
+  6:224626  warning  'jQuery' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery.js
+     18:44  warning  'module' is not defined                                                    no-undef
+     27:3   warning  'module' is not defined                                                    no-undef
+    143:11  warning  'Symbol' is already defined as a built-in global variable                  no-redeclare
+    690:15  warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+    749:45  warning  Empty block statement                                                      no-empty
+   2066:28  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3029:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   3030:31  warning  Unnecessary escape character: \/                                           no-useless-escape
+   3331:55  warning  Empty block statement                                                      no-empty
+   4438:18  warning  Empty block statement                                                      no-empty
+   4900:28  warning  Unnecessary escape character: \/                                           no-useless-escape
+   5121:18  warning  Empty block statement                                                      no-empty
+   6354:19  warning  Empty block statement                                                      no-empty
+   9535:22  warning  'urlAnchor.href' is assigned to itself                                     no-self-assign
+   9960:16  warning  Empty block statement                                                      no-empty
+  10832:38  warning  'define' is not defined                                                    no-undef
+  10833:2   warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery.jsPlumb-1.3.9-all-min.js
+  1:2904  error  Parsing error: Deleting local variable in strict mode
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery.min.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:5615   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:6098   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6322   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6830   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7600   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9866   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:10176  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12758  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12796  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13779  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14091  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15919  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16388  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16762  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:17452  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19272  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19372  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19616  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20785  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22057  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22168  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:24334  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33946  warning  Empty block statement                                                      no-empty
+  2:37691  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:39340  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39456  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39716  warning  Empty block statement                                                      no-empty
+  2:49400  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:50960  warning  Empty block statement                                                      no-empty
+  2:59283  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60452  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66084  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67827  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:67893  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68197  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68263  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68670  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68947  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74372  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75966  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:76746  warning  'r.href' is assigned to itself                                             no-self-assign
+  2:81551  warning  Empty block statement                                                      no-empty
+  2:84667  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:89180  warning  'define' is not defined                                                    no-undef
+  2:89192  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery.slim.js
+    18:44  warning  'module' is not defined                                                    no-undef
+    27:3   warning  'module' is not defined                                                    no-undef
+   143:11  warning  'Symbol' is already defined as a built-in global variable                  no-redeclare
+   690:15  warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+   749:45  warning  Empty block statement                                                      no-empty
+  2066:28  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  3029:2   warning  Unnecessary semicolon                                                      no-extra-semi
+  3030:31  warning  Unnecessary escape character: \/                                           no-useless-escape
+  3331:55  warning  Empty block statement                                                      no-empty
+  4438:18  warning  Empty block statement                                                      no-empty
+  4900:28  warning  Unnecessary escape character: \/                                           no-useless-escape
+  5121:18  warning  Empty block statement                                                      no-empty
+  6354:19  warning  Empty block statement                                                      no-empty
+  8737:38  warning  'define' is not defined                                                    no-undef
+  8738:2   warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jquery.slim.min.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:5821   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:6304   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6528   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7036   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7806   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:10072  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:10382  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12396  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12964  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13002  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13985  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14297  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16125  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16396  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16594  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16968  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:17658  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19478  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19578  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19638  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19822  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20991  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22263  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22374  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:24540  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:34152  warning  Empty block statement                                                      no-empty
+  2:37469  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:39118  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39234  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39494  warning  Empty block statement                                                      no-empty
+  2:49178  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:50738  warning  Empty block statement                                                      no-empty
+  2:58825  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60568  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60634  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:60938  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:61004  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:61411  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:61688  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:68005  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:71878  warning  'define' is not defined                                                    no-undef
+  2:71890  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jsplumb.js
+     68:9   warning  'root' is assigned a value but never used                                  no-unused-vars
+    130:18  warning  'i' is already defined                                                     no-redeclare
+    184:18  warning  'i' is already defined                                                     no-redeclare
+    242:22  warning  'j' is already defined                                                     no-redeclare
+    264:56  warning  't' is defined but never used                                              no-unused-vars
+    279:26  warning  'j' is already defined                                                     no-redeclare
+    590:9   warning  'exports' is not defined                                                   no-undef
+    624:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    634:9   warning  'exports' is not defined                                                   no-undef
+    669:9   warning  '_normal' is assigned a value but never used                               no-unused-vars
+    680:9   warning  '_lineLength' is assigned a value but never used                           no-unused-vars
+    714:9   warning  '_theta' is assigned a value but never used                                no-unused-vars
+    733:9   warning  '_intersects' is assigned a value but never used                           no-unused-vars
+    755:9   warning  '_encloses' is assigned a value but never used                             no-unused-vars
+    772:9   warning  '_pointOnLine' is assigned a value but never used                          no-unused-vars
+    789:9   warning  '_perpendicularLineTo' is assigned a value but never used                  no-unused-vars
+    797:1   warning  Unnecessary semicolon                                                      no-extra-semi
+    854:28  warning  'view' is defined but never used                                           no-unused-vars
+    854:34  warning  'target' is defined but never used                                         no-unused-vars
+    854:42  warning  'pageX' is defined but never used                                          no-unused-vars
+    854:49  warning  'pageY' is defined but never used                                          no-unused-vars
+    854:56  warning  'screenX' is defined but never used                                        no-unused-vars
+    854:65  warning  'screenY' is defined but never used                                        no-unused-vars
+    854:74  warning  'clientX' is defined but never used                                        no-unused-vars
+    854:83  warning  'clientY' is defined but never used                                        no-unused-vars
+   1048:58  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1090:39  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1140:9   warning  'touchstart' is assigned a value but never used                            no-unused-vars
+   1140:36  warning  'touchend' is assigned a value but never used                              no-unused-vars
+   1140:59  warning  'touchmove' is assigned a value but never used                             no-unused-vars
+   1145:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1231:73  warning  Invalid typeof comparison value                                            valid-typeof
+   1294:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1296:51  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   1318:29  warning  'el' is defined but never used                                             no-unused-vars
+   1318:33  warning  'event' is defined but never used                                          no-unused-vars
+   1318:40  warning  'children' is defined but never used                                       no-unused-vars
+   1318:50  warning  'fn' is defined but never used                                             no-unused-vars
+   1465:9   warning  'exports' is not defined                                                   no-undef
+   1498:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   1612:54  warning  Unnecessary escape character: \.                                           no-useless-escape
+   1736:42  warning  'scope' is defined but never used                                          no-unused-vars
+   1744:13  warning  'scroll' is assigned a value but never used                                no-unused-vars
+   1894:13  warning  '_addFilter' is assigned a value but never used                            no-unused-vars
+   1895:13  warning  '_removeFilter' is assigned a value but never used                         no-unused-vars
+   2110:31  warning  Empty block statement                                                      no-empty
+   2299:42  warning  'scope' is defined but never used                                          no-unused-vars
+   2319:56  warning  'drag' is defined but never used                                           no-unused-vars
+   2407:13  warning  '_getMatchingDroppables' is assigned a value but never used                no-unused-vars
+   2451:18  warning  'i' is already defined                                                     no-redeclare
+   2773:40  warning  'spec' is defined but never used                                           no-unused-vars
+   2796:38  warning  'spec' is defined but never used                                           no-unused-vars
+   2881:9   warning  'exports' is not defined                                                   no-undef
+   2893:42  warning  'exports' is not defined                                                   no-undef
+   2942:19  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3038:26  warning  Unnecessary escape character: \.                                           no-useless-escape
+   3039:40  warning  Unnecessary escape character: \[                                           no-useless-escape
+   3249:36  warning  '_protoFn' is defined but never used                                       no-unused-vars
+   3257:45  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3257:83  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3270:41  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3270:79  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   3333:42  warning  Empty block statement                                                      no-empty
+   3415:23  warning  Empty block statement                                                      no-empty
+   3584:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   3639:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3642:44  warning  'ep' is defined but never used                                             no-unused-vars
+   3642:48  warning  'conn' is defined but never used                                           no-unused-vars
+   3772:38  warning  'e' is defined but never used                                              no-unused-vars
+   3877:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   3909:9   warning  'eventFilters' is assigned a value but never used                          no-unused-vars
+   3928:9   warning  '_each' is assigned a value but never used                                 no-unused-vars
+   4601:29  warning  'o' is assigned a value but never used                                     no-unused-vars
+   4923:13  warning  '_setDraggable' is assigned a value but never used                         no-unused-vars
+   5147:56  warning  'args' is defined but never used                                           no-unused-vars
+   5195:60  warning  'cEl' is assigned a value but never used                                   no-unused-vars
+   5826:13  warning  '_unmanage' is assigned a value but never used                             no-unused-vars
+   5922:68  warning  'jsPlumbInstance' is assigned a value but never used                       no-unused-vars
+   6492:39  warning  'scope' is defined but never used                                          no-unused-vars
+   7179:9   warning  'exports' is not defined                                                   no-undef
+   7194:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7312:36  warning  'ignoreAttachedElements' is defined but never used                         no-unused-vars
+   7504:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   7749:41  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7754:50  warning  'doNotRepaint' is defined but never used                                   no-unused-vars
+   7819:53  warning  'fireEvent' is defined but never used                                      no-unused-vars
+   7819:64  warning  'originalEvent' is defined but never used                                  no-unused-vars
+   7933:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   7979:39  warning  'startParams' is defined but never used                                    no-unused-vars
+   8556:17  warning  'elId' is assigned a value but never used                                  no-unused-vars
+   8793:1   warning  Unnecessary semicolon                                                      no-extra-semi
+   9312:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9337:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9349:21  warning  'jsPlumb' is not defined                                                   no-undef
+   9449:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10157:27  warning  'Biltong' is not defined                                                   no-undef
+  10509:23  warning  'jsPlumbUtil' is not defined                                               no-undef
+  10742:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  10772:53  warning  'x' is defined but never used                                              no-unused-vars
+  10772:56  warning  'y' is defined but never used                                              no-unused-vars
+  10799:46  warning  'x1' is defined but never used                                             no-unused-vars
+  10799:50  warning  'y1' is defined but never used                                             no-unused-vars
+  10799:54  warning  'x2' is defined but never used                                             no-unused-vars
+  10799:58  warning  'y2' is defined but never used                                             no-unused-vars
+  10832:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  10890:46  warning  '_' is defined but never used                                              no-unused-vars
+  11092:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11324:17  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11683:13  warning  'dumpSegmentsToConsole' is assigned a value but never used                 no-unused-vars
+  11739:48  warning  'anchorPoint' is defined but never used                                    no-unused-vars
+  11739:61  warning  'orientation' is defined but never used                                    no-unused-vars
+  11739:74  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11739:89  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11772:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11778:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11799:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11804:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11815:40  warning  'params' is defined but never used                                         no-unused-vars
+  11893:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11893:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11893:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11919:40  warning  'd' is defined but never used                                              no-unused-vars
+  11919:43  warning  'style' is defined but never used                                          no-unused-vars
+  11919:50  warning  'anchor' is defined but never used                                         no-unused-vars
+  11962:13  warning  '_super' is assigned a value but never used                                no-unused-vars
+  11965:48  warning  'orientation' is defined but never used                                    no-unused-vars
+  11965:61  warning  'endpointStyle' is defined but never used                                  no-unused-vars
+  11965:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  11981:32  warning  'style' is defined but never used                                          no-unused-vars
+  11981:39  warning  'anchor' is defined but never used                                         no-unused-vars
+  12014:76  warning  'connectorPaintStyle' is defined but never used                            no-unused-vars
+  12043:27  warning  'instance' is defined but never used                                       no-unused-vars
+  12043:37  warning  'component' is defined but never used                                      no-unused-vars
+  12112:43  warning  'component' is defined but never used                                      no-unused-vars
+  12276:17  warning  'jsPlumb' is not defined                                                   no-undef
+  12383:37  warning  'component' is defined but never used                                      no-unused-vars
+  12393:29  warning  'containerExtents' is defined but never used                               no-unused-vars
+  12421:37  warning  'params' is defined but never used                                         no-unused-vars
+  12434:42  warning  'currentConnectionPaintStyle' is defined but never used                    no-unused-vars
+  12478:13  warning  'labelWidth' is assigned a value but never used                            no-unused-vars
+  12478:32  warning  'labelHeight' is assigned a value but never used                           no-unused-vars
+  12478:52  warning  'labelText' is assigned a value but never used                             no-unused-vars
+  12478:70  warning  'labelPadding' is assigned a value but never used                          no-unused-vars
+  12568:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  12623:32  warning  'g' is assigned a value but never used                                     no-unused-vars
+  12623:42  warning  'child' is assigned a value but never used                                 no-unused-vars
+  13026:35  warning  'conn' is defined but never used                                           no-unused-vars
+  13026:41  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  13030:37  warning  'conn' is defined but never used                                           no-unused-vars
+  13030:43  warning  'endpointIndex' is defined but never used                                  no-unused-vars
+  13043:56  warning  'jsPlumb' is not defined                                                   no-undef
+  13079:38  warning  '_el' is defined but never used                                            no-unused-vars
+  13079:43  warning  'targetGroup' is defined but never used                                    no-unused-vars
+  13132:29  warning  'jsPlumbUtil' is not defined                                               no-undef
+  13481:25  warning  'child' is assigned a value but never used                                 no-unused-vars
+  13505:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13521:41  warning  'lastOrientation' is assigned a value but never used                       no-unused-vars
+  13525:13  warning  'loopbackRadius' is assigned a value but never used                        no-unused-vars
+  13526:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  13870:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  13879:13  warning  'curviness' is assigned a value but never used                             no-unused-vars
+  13881:13  warning  'proximityLimit' is assigned a value but never used                        no-unused-vars
+  13884:13  warning  'isLoopbackCurrently' is assigned a value but never used                   no-unused-vars
+  14023:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14118:13  warning  'clockwise' is assigned a value but never used                             no-unused-vars
+  14218:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14225:30  warning  'params' is defined but never used                                         no-unused-vars
+  14229:46  warning  '_' is defined but never used                                              no-unused-vars
+  14250:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  14655:35  warning  'style' is defined but never used                                          no-unused-vars
+  14678:35  warning  'style' is defined but never used                                          no-unused-vars
+  14714:13  warning  'self' is assigned a value but never used                                  no-unused-vars
+  14875:1   warning  Unnecessary semicolon                                                      no-extra-semi
+  15070:39  warning  'jsPlumb' is not defined                                                   no-undef
+  15099:29  warning  'jsPlumb' is not defined                                                   no-undef
+  15106:38  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15107:39  warning  'jsPlumb' is not defined                                                   no-undef
+  15174:40  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15265:22  warning  'jsPlumb' is not defined                                                   no-undef
+  15270:24  warning  'jsPlumb' is not defined                                                   no-undef
+  15396:26  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  15409:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15414:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15423:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15428:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15429:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15431:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15435:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15441:17  warning  'jsPlumb' is not defined                                                   no-undef
+  15479:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15527:22  warning  'jsPlumb' is not defined                                                   no-undef
+  15632:20  warning  'jsPlumb' is not defined                                                   no-undef
+  15646:13  warning  'jsPlumb' is not defined                                                   no-undef
+  15658:18  warning  'jsPlumb' is not defined                                                   no-undef
+  15661:25  warning  'jsPlumb' is not defined                                                   no-undef
+  15663:35  warning  'jsPlumb' is not defined                                                   no-undef
+  15664:30  warning  'jsPlumb' is not defined                                                   no-undef
+  15665:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15666:45  warning  'jsPlumb' is not defined                                                   no-undef
+  15667:46  warning  'jsPlumb' is not defined                                                   no-undef
+  15783:36  warning  'el' is defined but never used                                             no-unused-vars
+  15783:40  warning  'options' is defined but never used                                        no-unused-vars
+  15786:36  warning  'el' is defined but never used                                             no-unused-vars
+  15786:40  warning  'options' is defined but never used                                        no-unused-vars
+  15802:45  warning  'zoom' is defined but never used                                           no-unused-vars
+  15842:33  warning  'spec' is defined but never used                                           no-unused-vars
+  15851:31  warning  'spec' is defined but never used                                           no-unused-vars
+  15860:38  warning  'posseId' is defined but never used                                        no-unused-vars
+  15919:23  warning  'el' is defined but never used                                             no-unused-vars
+  15919:27  warning  'event' is defined but never used                                          no-unused-vars
+  15919:34  warning  'callback' is defined but never used                                       no-unused-vars
+  15928:24  warning  'el' is defined but never used                                             no-unused-vars
+  15928:28  warning  'event' is defined but never used                                          no-unused-vars
+  15928:35  warning  'callback' is defined but never used                                       no-unused-vars
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/jsplumb.min.js
+  1:1673   warning  'k' is already defined                                                     no-redeclare
+  1:2271   warning  'q' is already defined                                                     no-redeclare
+  1:2986   warning  'g' is already defined                                                     no-redeclare
+  1:3415   warning  'b' is defined but never used                                              no-unused-vars
+  1:3695   warning  'k' is already defined                                                     no-redeclare
+  1:6001   warning  'exports' is not defined                                                   no-undef
+  1:6163   warning  'exports' is not defined                                                   no-undef
+  1:8096   warning  'c' is defined but never used                                              no-unused-vars
+  1:8098   warning  'd' is defined but never used                                              no-unused-vars
+  1:8100   warning  'e' is defined but never used                                              no-unused-vars
+  1:8102   warning  'f' is defined but never used                                              no-unused-vars
+  1:8104   warning  'g' is defined but never used                                              no-unused-vars
+  1:8106   warning  'h' is defined but never used                                              no-unused-vars
+  1:8108   warning  'i' is defined but never used                                              no-unused-vars
+  1:8110   warning  'j' is defined but never used                                              no-unused-vars
+  1:10619  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:11134  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:13395  warning  Invalid typeof comparison value                                            valid-typeof
+  1:14152  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14203  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  1:14309  warning  'a' is defined but never used                                              no-unused-vars
+  1:14311  warning  'b' is defined but never used                                              no-unused-vars
+  1:14313  warning  'c' is defined but never used                                              no-unused-vars
+  1:14315  warning  'd' is defined but never used                                              no-unused-vars
+  1:15691  warning  'exports' is not defined                                                   no-undef
+  1:19508  warning  'd' is defined but never used                                              no-unused-vars
+  1:24774  warning  Empty block statement                                                      no-empty
+  1:27301  warning  'd' is defined but never used                                              no-unused-vars
+  1:27860  warning  'a' is defined but never used                                              no-unused-vars
+  1:29764  warning  'p' is already defined                                                     no-redeclare
+  2:1692   warning  'b' is defined but never used                                              no-unused-vars
+  2:1814   warning  'b' is defined but never used                                              no-unused-vars
+  2:2867   warning  'exports' is not defined                                                   no-undef
+  2:3535   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:4327   warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:4371   warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:5640   warning  'd' is defined but never used                                              no-unused-vars
+  2:5770   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5802   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5957   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:5989   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:7715   warning  Empty block statement                                                      no-empty
+  2:8054   warning  'exports' is not defined                                                   no-undef
+  2:10820  warning  'c' is defined but never used                                              no-unused-vars
+  2:10822  warning  'd' is defined but never used                                              no-unused-vars
+  2:12490  warning  'c' is defined but never used                                              no-unused-vars
+  2:25540  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:30305  warning  'c' is defined but never used                                              no-unused-vars
+  3:15506  warning  'b' is defined but never used                                              no-unused-vars
+  3:24887  warning  'exports' is not defined                                                   no-undef
+  3:26826  warning  'b' is defined but never used                                              no-unused-vars
+  4:2168   warning  'b' is defined but never used                                              no-unused-vars
+  4:2269   warning  'b' is defined but never used                                              no-unused-vars
+  4:3769   warning  'b' is defined but never used                                              no-unused-vars
+  4:3771   warning  'c' is defined but never used                                              no-unused-vars
+  4:5997   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:6632   warning  'c' is defined but never used                                              no-unused-vars
+  4:19504  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:29851  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30797  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  4:30968  warning  'jsPlumb' is not defined                                                   no-undef
+  5:10716  warning  'Biltong' is not defined                                                   no-undef
+  5:14976  warning  'jsPlumbUtil' is not defined                                               no-undef
+  5:18481  warning  'a' is defined but never used                                              no-unused-vars
+  5:18483  warning  'b' is defined but never used                                              no-unused-vars
+  5:18688  warning  'a' is defined but never used                                              no-unused-vars
+  5:18690  warning  'b' is defined but never used                                              no-unused-vars
+  5:18692  warning  'c' is defined but never used                                              no-unused-vars
+  5:18694  warning  'd' is defined but never used                                              no-unused-vars
+  5:19819  warning  'a' is defined but never used                                              no-unused-vars
+  5:29855  warning  'a' is defined but never used                                              no-unused-vars
+  5:29857  warning  'b' is defined but never used                                              no-unused-vars
+  5:29859  warning  'c' is defined but never used                                              no-unused-vars
+  5:29861  warning  'd' is defined but never used                                              no-unused-vars
+  5:30383  warning  'd' is defined but never used                                              no-unused-vars
+  5:30831  warning  'd' is defined but never used                                              no-unused-vars
+  5:31000  warning  'a' is defined but never used                                              no-unused-vars
+  6:148    warning  'b' is defined but never used                                              no-unused-vars
+  6:150    warning  'c' is defined but never used                                              no-unused-vars
+  6:152    warning  'd' is defined but never used                                              no-unused-vars
+  6:706    warning  'a' is defined but never used                                              no-unused-vars
+  6:708    warning  'b' is defined but never used                                              no-unused-vars
+  6:710    warning  'd' is defined but never used                                              no-unused-vars
+  6:1569   warning  'b' is defined but never used                                              no-unused-vars
+  6:1571   warning  'c' is defined but never used                                              no-unused-vars
+  6:1573   warning  'd' is defined but never used                                              no-unused-vars
+  6:1867   warning  'a' is defined but never used                                              no-unused-vars
+  6:1869   warning  'b' is defined but never used                                              no-unused-vars
+  6:2332   warning  'e' is defined but never used                                              no-unused-vars
+  6:2790   warning  'a' is defined but never used                                              no-unused-vars
+  6:2792   warning  'b' is defined but never used                                              no-unused-vars
+  6:3530   warning  'd' is defined but never used                                              no-unused-vars
+  6:6195   warning  'jsPlumb' is not defined                                                   no-undef
+  6:7767   warning  'b' is defined but never used                                              no-unused-vars
+  6:7946   warning  'b' is defined but never used                                              no-unused-vars
+  6:8295   warning  'a' is defined but never used                                              no-unused-vars
+  6:8555   warning  'c' is defined but never used                                              no-unused-vars
+  6:12807  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:13679  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:17178  warning  'a' is defined but never used                                              no-unused-vars
+  6:17180  warning  'b' is defined but never used                                              no-unused-vars
+  6:17240  warning  'a' is defined but never used                                              no-unused-vars
+  6:17242  warning  'b' is defined but never used                                              no-unused-vars
+  6:17411  warning  'jsPlumb' is not defined                                                   no-undef
+  6:17834  warning  'a' is defined but never used                                              no-unused-vars
+  6:17836  warning  'b' is defined but never used                                              no-unused-vars
+  6:18338  warning  'jsPlumbUtil' is not defined                                               no-undef
+  6:20600  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6:20708  warning  'e' is assigned a value but never used                                     no-unused-vars
+  6:20954  warning  'f' is assigned a value but never used                                     no-unused-vars
+  6:25531  warning  'h' is assigned a value but never used                                     no-unused-vars
+  6:28808  warning  'a' is defined but never used                                              no-unused-vars
+  6:28907  warning  'b' is defined but never used                                              no-unused-vars
+  7:2537   warning  'a' is defined but never used                                              no-unused-vars
+  7:2853   warning  'a' is defined but never used                                              no-unused-vars
+  7:8876   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9164   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9231   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:9256   warning  'jsPlumb' is not defined                                                   no-undef
+  7:9856   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:10695  warning  'jsPlumb' is not defined                                                   no-undef
+  7:10746  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12222  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  7:12395  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12464  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12570  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12638  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12660  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12685  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12738  warning  'jsPlumb' is not defined                                                   no-undef
+  7:12809  warning  'jsPlumb' is not defined                                                   no-undef
+  7:13251  warning  'c' is assigned a value but never used                                     no-unused-vars
+  7:13373  warning  'jsPlumb' is not defined                                                   no-undef
+  7:14422  warning  'jsPlumb' is not defined                                                   no-undef
+  7:15871  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16081  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16331  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16374  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16447  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16468  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16547  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16573  warning  'jsPlumb' is not defined                                                   no-undef
+  7:16599  warning  'jsPlumb' is not defined                                                   no-undef
+  7:18056  warning  'a' is defined but never used                                              no-unused-vars
+  7:18058  warning  'b' is defined but never used                                              no-unused-vars
+  7:18096  warning  'a' is defined but never used                                              no-unused-vars
+  7:18098  warning  'b' is defined but never used                                              no-unused-vars
+  7:18430  warning  'b' is defined but never used                                              no-unused-vars
+  7:19071  warning  'c' is defined but never used                                              no-unused-vars
+  7:19236  warning  'c' is defined but never used                                              no-unused-vars
+  7:19406  warning  'c' is defined but never used                                              no-unused-vars
+  7:20525  warning  'a' is defined but never used                                              no-unused-vars
+  7:20527  warning  'b' is defined but never used                                              no-unused-vars
+  7:20529  warning  'c' is defined but never used                                              no-unused-vars
+  7:20606  warning  'a' is defined but never used                                              no-unused-vars
+  7:20608  warning  'b' is defined but never used                                              no-unused-vars
+  7:20610  warning  'c' is defined but never used                                              no-unused-vars
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/script.js
+     8:10   warning  'BoardController' is defined but never used  no-unused-vars
+    48:13   warning  'jsPlumb' is not defined                     no-undef
+    95:21   warning  'x' is assigned a value but never used       no-unused-vars
+    95:25   warning  '$' is not defined                           no-undef
+   105:10   warning  'draggable' is defined but never used        no-unused-vars
+   107:9    warning  'container' is already defined               no-redeclare
+   139:22   warning  'e' is defined but never used                no-unused-vars
+   181:10   warning  'checkCircuit' is defined but never used     no-unused-vars
+   183:17   warning  'Graph' is not defined                       no-undef
+   196:10   warning  'key' is not defined                         no-undef
+   197:31   warning  'key' is not defined                         no-undef
+   197:88   warning  'key' is not defined                         no-undef
+   219:353  warning  'isstartedsimulation' is not defined         no-undef
+   221:355  warning  'isstartedsimulation' is not defined         no-undef
+   252:353  warning  'isstartedsimulation' is not defined         no-undef
+   254:355  warning  'isstartedsimulation' is not defined         no-undef
+   285:353  warning  'isstartedsimulation' is not defined         no-undef
+   287:355  warning  'isstartedsimulation' is not defined         no-undef
+   318:353  warning  'isstartedsimulation' is not defined         no-undef
+   320:355  warning  'isstartedsimulation' is not defined         no-undef
+   355:10   warning  'checkCircuit1' is defined but never used    no-unused-vars
+   357:17   warning  'Graph' is not defined                       no-undef
+   371:10   warning  'key' is not defined                         no-undef
+   372:31   warning  'key' is not defined                         no-undef
+   372:88   warning  'key' is not defined                         no-undef
+   396:14   warning  'isstartedsimulation' is not defined         no-undef
+   433:14   warning  'isstartedsimulation' is not defined         no-undef
+   464:14   warning  'isstartedsimulation' is not defined         no-undef
+   498:14   warning  'isstartedsimulation' is not defined         no-undef
+   529:14   warning  'isstartedsimulation' is not defined         no-undef
+   559:14   warning  'isstartedsimulation' is not defined         no-undef
+   582:10   warning  'checkCircuit2' is defined but never used    no-unused-vars
+   584:17   warning  'Graph' is not defined                       no-undef
+   597:10   warning  'key' is not defined                         no-undef
+   598:31   warning  'key' is not defined                         no-undef
+   598:88   warning  'key' is not defined                         no-undef
+   620:353  warning  'isstartedsimulation' is not defined         no-undef
+   622:355  warning  'isstartedsimulation' is not defined         no-undef
+   653:353  warning  'isstartedsimulation' is not defined         no-undef
+   655:355  warning  'isstartedsimulation' is not defined         no-undef
+   686:353  warning  'isstartedsimulation' is not defined         no-undef
+   688:355  warning  'isstartedsimulation' is not defined         no-undef
+   719:353  warning  'isstartedsimulation' is not defined         no-undef
+   721:355  warning  'isstartedsimulation' is not defined         no-undef
+   749:10   warning  'checkCircuit3' is defined but never used    no-unused-vars
+   751:17   warning  'Graph' is not defined                       no-undef
+   764:10   warning  'key' is not defined                         no-undef
+   765:31   warning  'key' is not defined                         no-undef
+   765:88   warning  'key' is not defined                         no-undef
+   787:353  warning  'isstartedsimulation' is not defined         no-undef
+   789:355  warning  'isstartedsimulation' is not defined         no-undef
+   820:353  warning  'isstartedsimulation' is not defined         no-undef
+   822:355  warning  'isstartedsimulation' is not defined         no-undef
+   853:353  warning  'isstartedsimulation' is not defined         no-undef
+   855:355  warning  'isstartedsimulation' is not defined         no-undef
+   886:353  warning  'isstartedsimulation' is not defined         no-undef
+   888:355  warning  'isstartedsimulation' is not defined         no-undef
+   917:10   warning  'checkCircuit4' is defined but never used    no-unused-vars
+   919:17   warning  'Graph' is not defined                       no-undef
+   931:10   warning  'key' is not defined                         no-undef
+   932:31   warning  'key' is not defined                         no-undef
+   932:88   warning  'key' is not defined                         no-undef
+   954:377  warning  'isstartedsimulation' is not defined         no-undef
+   955:384  warning  'isstartedsimulation' is not defined         no-undef
+   956:384  warning  'isstartedsimulation' is not defined         no-undef
+   957:384  warning  'isstartedsimulation' is not defined         no-undef
+   958:384  warning  'isstartedsimulation' is not defined         no-undef
+   959:384  warning  'isstartedsimulation' is not defined         no-undef
+   990:373  warning  'isstartedsimulation' is not defined         no-undef
+   991:384  warning  'isstartedsimulation' is not defined         no-undef
+   992:384  warning  'isstartedsimulation' is not defined         no-undef
+   993:384  warning  'isstartedsimulation' is not defined         no-undef
+   994:384  warning  'isstartedsimulation' is not defined         no-undef
+   995:384  warning  'isstartedsimulation' is not defined         no-undef
+  1028:387  warning  'isstartedsimulation' is not defined         no-undef
+  1029:384  warning  'isstartedsimulation' is not defined         no-undef
+  1030:384  warning  'isstartedsimulation' is not defined         no-undef
+  1031:384  warning  'isstartedsimulation' is not defined         no-undef
+  1032:384  warning  'isstartedsimulation' is not defined         no-undef
+  1033:384  warning  'isstartedsimulation' is not defined         no-undef
+  1066:10   warning  'checkCircuit5' is defined but never used    no-unused-vars
+  1068:17   warning  'Graph' is not defined                       no-undef
+  1081:10   warning  'key' is not defined                         no-undef
+  1082:31   warning  'key' is not defined                         no-undef
+  1082:88   warning  'key' is not defined                         no-undef
+  1224:10   warning  'change1' is defined but never used          no-unused-vars
+  1238:156  warning  'isstartedsimulation' is not defined         no-undef
+  1242:161  warning  'isstartedsimulation' is not defined         no-undef
+  1255:10   warning  'change2' is defined but never used          no-unused-vars
+  1278:71   warning  'isstartedsimulation' is not defined         no-undef
+  1293:10   warning  'change3' is defined but never used          no-unused-vars
+  1316:71   warning  'isstartedsimulation' is not defined         no-undef
+  1331:10   warning  'change4' is defined but never used          no-unused-vars
+  1344:66   warning  'isstartedsimulation' is not defined         no-undef
+  1358:10   warning  'change5' is defined but never used          no-unused-vars
+  1371:65   warning  'isstartedsimulation' is not defined         no-undef
+  1386:10   warning  'change6' is defined but never used          no-unused-vars
+  1399:118  warning  'isstartedsimulation' is not defined         no-undef
+  1405:14   warning  'isstartedsimulation' is not defined         no-undef
+  1418:10   warning  'change7' is defined but never used          no-unused-vars
+  1431:118  warning  'isstartedsimulation' is not defined         no-undef
+  1436:18   warning  'isstartedsimulation' is not defined         no-undef
+  1453:10   warning  'change8' is defined but never used          no-unused-vars
+  1472:67   warning  'isstartedsimulation' is not defined         no-undef
+  1475:14   warning  'isstartedsimulation' is not defined         no-undef
+  1488:10   warning  'change9' is defined but never used          no-unused-vars
+  1507:67   warning  'isstartedsimulation' is not defined         no-undef
+  1510:14   warning  'isstartedsimulation' is not defined         no-undef
+  1522:10   warning  'change10' is defined but never used         no-unused-vars
+  1539:120  warning  'isstartedsimulation' is not defined         no-undef
+  1542:125  warning  'isstartedsimulation' is not defined         no-undef
+  1545:125  warning  'isstartedsimulation' is not defined         no-undef
+  1557:10   warning  'change11' is defined but never used         no-unused-vars
+  1575:119  warning  'isstartedsimulation' is not defined         no-undef
+  1578:124  warning  'isstartedsimulation' is not defined         no-undef
+  1581:122  warning  'isstartedsimulation' is not defined         no-undef
+  1594:10   warning  'change12' is defined but never used         no-unused-vars
+  1607:110  warning  'isstartedsimulation' is not defined         no-undef
+  1619:10   warning  'change13' is defined but never used         no-unused-vars
+  1632:109  warning  'isstartedsimulation' is not defined         no-undef
+  1643:10   warning  'change14' is defined but never used         no-unused-vars
+  1657:90   warning  'isstartedsimulation' is not defined         no-undef
+  1667:10   warning  'change15' is defined but never used         no-unused-vars
+  1680:90   warning  'isstartedsimulation' is not defined         no-undef
+  1691:10   warning  'change16' is defined but never used         no-unused-vars
+  1704:91   warning  'isstartedsimulation' is not defined         no-undef
+  1717:10   warning  'change17' is defined but never used         no-unused-vars
+  1737:14   warning  'isstartedsimulation' is not defined         no-undef
+  1749:10   warning  'change18' is defined but never used         no-unused-vars
+  1768:13   warning  'isstartedsimulation' is not defined         no-undef
+  1781:10   warning  'change19' is defined but never used         no-unused-vars
+  1800:13   warning  'isstartedsimulation' is not defined         no-undef
+  1820:10   warning  'change20' is defined but never used         no-unused-vars
+  1834:91   warning  'isstartedsimulation' is not defined         no-undef
+  1837:32   warning  'isstartedsimulation' is not defined         no-undef
+  1840:13   warning  'isstartedsimulation' is not defined         no-undef
+  1847:10   warning  'change21' is defined but never used         no-unused-vars
+  1860:89   warning  'isstartedsimulation' is not defined         no-undef
+  1863:33   warning  'isstartedsimulation' is not defined         no-undef
+  1866:14   warning  'isstartedsimulation' is not defined         no-undef
+  1874:10   warning  'change22' is defined but never used         no-unused-vars
+  1887:91   warning  'isstartedsimulation' is not defined         no-undef
+  1890:32   warning  'isstartedsimulation' is not defined         no-undef
+  1893:14   warning  'isstartedsimulation' is not defined         no-undef
+  1903:10   warning  'change23' is defined but never used         no-unused-vars
+  1923:93   warning  'isstartedsimulation' is not defined         no-undef
+  1926:14   warning  'isstartedsimulation' is not defined         no-undef
+  1936:10   warning  'change24' is defined but never used         no-unused-vars
+  1955:93   warning  'isstartedsimulation' is not defined         no-undef
+  1958:14   warning  'isstartedsimulation' is not defined         no-undef
+  1969:10   warning  'change25' is defined but never used         no-unused-vars
+  1988:92   warning  'isstartedsimulation' is not defined         no-undef
+  1991:14   warning  'isstartedsimulation' is not defined         no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/script1.js
+     2:5   warning  'isstartedsimulation' is assigned a value but never used  no-unused-vars
+    10:24  warning  'BoardController' is not defined                          no-undef
+    12:33  warning  'jsPlumb' is not defined                                  no-undef
+   241:22  warning  'BoardController' is not defined                          no-undef
+   242:31  warning  'jsPlumb' is not defined                                  no-undef
+   331:22  warning  'BoardController' is not defined                          no-undef
+   332:31  warning  'jsPlumb' is not defined                                  no-undef
+   352:22  warning  'BoardController' is not defined                          no-undef
+   353:31  warning  'jsPlumb' is not defined                                  no-undef
+   370:22  warning  'BoardController' is not defined                          no-undef
+   371:31  warning  'jsPlumb' is not defined                                  no-undef
+   388:22  warning  'BoardController' is not defined                          no-undef
+   389:31  warning  'jsPlumb' is not defined                                  no-undef
+   410:23  warning  'BoardController' is not defined                          no-undef
+   411:31  warning  'jsPlumb' is not defined                                  no-undef
+   434:10  warning  'myFunction' is defined but never used                    no-unused-vars
+   452:10  warning  'resetCircuit' is defined but never used                  no-unused-vars
+   462:10  warning  'radiobutton1' is defined but never used                  no-unused-vars
+   465:1   warning  Mixed spaces and tabs                                     no-mixed-spaces-and-tabs
+   479:10  warning  'radiobutton2' is defined but never used                  no-unused-vars
+   493:10  warning  'radiobutton3' is defined but never used                  no-unused-vars
+   508:11  warning  'radiobutton4' is defined but never used                  no-unused-vars
+   526:10  warning  'radiobutton5' is defined but never used                  no-unused-vars
+   543:10  warning  'radiobutton6' is defined but never used                  no-unused-vars
+   560:11  warning  'radiobutton7' is defined but never used                  no-unused-vars
+   577:10  warning  'radiobutton8' is defined but never used                  no-unused-vars
+   594:10  warning  'radiobutton9' is defined but never used                  no-unused-vars
+   610:10  warning  'radiobutton10' is defined but never used                 no-unused-vars
+   626:11  warning  'radiobutton11' is defined but never used                 no-unused-vars
+   643:11  warning  'radiobutton12' is defined but never used                 no-unused-vars
+   660:11  warning  'radiobutton13' is defined but never used                 no-unused-vars
+   679:11  warning  'radiobutton14' is defined but never used                 no-unused-vars
+   692:31  warning  'theorem1c' is not defined                                no-undef
+   692:47  warning  'theorem1b' is not defined                                no-undef
+   696:12  warning  'radiobutton15' is defined but never used                 no-unused-vars
+   710:34  warning  'theorem1c' is not defined                                no-undef
+   710:50  warning  'theorem1b' is not defined                                no-undef
+   715:12  warning  'radiobutton16' is defined but never used                 no-unused-vars
+   727:33  warning  'theorem1c' is not defined                                no-undef
+   727:49  warning  'theorem1b' is not defined                                no-undef
+   733:10  warning  'parameter' is defined but never used                     no-unused-vars
+   784:5   warning  'checkCircuit1' is not defined                            no-undef
+   823:5   warning  'change1' is not defined                                  no-undef
+   829:8   warning  'po' is already defined                                   no-redeclare
+   832:8   warning  'a' is already defined                                    no-redeclare
+   848:9   warning  'left' is already defined                                 no-redeclare
+   851:8   warning  'p' is already defined                                    no-redeclare
+   853:8   warning  'r' is already defined                                    no-redeclare
+   855:8   warning  'q' is already defined                                    no-redeclare
+   858:9   warning  'img' is already defined                                  no-redeclare
+   862:10  warning  'src' is already defined                                  no-redeclare
+   872:4   warning  'checkCircuit' is not defined                             no-undef
+   899:5   warning  'change2' is not defined                                  no-undef
+   904:5   warning  'change3' is not defined                                  no-undef
+   910:8   warning  'po' is already defined                                   no-redeclare
+   913:8   warning  'a' is already defined                                    no-redeclare
+   929:9   warning  'left' is already defined                                 no-redeclare
+   933:8   warning  'p' is already defined                                    no-redeclare
+   935:8   warning  'r' is already defined                                    no-redeclare
+   937:8   warning  'q' is already defined                                    no-redeclare
+   941:9   warning  'img' is already defined                                  no-redeclare
+   945:10  warning  'src' is already defined                                  no-redeclare
+   954:4   warning  'checkCircuit' is not defined                             no-undef
+   981:7   warning  'change4' is not defined                                  no-undef
+   986:5   warning  'change5' is not defined                                  no-undef
+   992:8   warning  'po' is already defined                                   no-redeclare
+   995:8   warning  'a' is already defined                                    no-redeclare
+  1011:9   warning  'left' is already defined                                 no-redeclare
+  1014:8   warning  'p' is already defined                                    no-redeclare
+  1016:8   warning  'r' is already defined                                    no-redeclare
+  1018:8   warning  'q' is already defined                                    no-redeclare
+  1022:9   warning  'img' is already defined                                  no-redeclare
+  1026:10  warning  'src' is already defined                                  no-redeclare
+  1036:4   warning  'checkCircuit' is not defined                             no-undef
+  1037:8   warning  'theorem1' is not defined                                 no-undef
+  1037:24  warning  'theorem1b' is not defined                                no-undef
+  1037:41  warning  'theorem1c' is not defined                                no-undef
+  1037:59  warning  'theorem1d' is not defined                                no-undef
+  1039:4   warning  Mixed spaces and tabs                                     no-mixed-spaces-and-tabs
+  1067:5   warning  'change6' is not defined                                  no-undef
+  1073:4   warning  'change7' is not defined                                  no-undef
+  1081:8   warning  'po' is already defined                                   no-redeclare
+  1084:8   warning  'a' is already defined                                    no-redeclare
+  1100:9   warning  'left' is already defined                                 no-redeclare
+  1103:8   warning  'p' is already defined                                    no-redeclare
+  1105:8   warning  'r' is already defined                                    no-redeclare
+  1107:8   warning  'q' is already defined                                    no-redeclare
+  1111:9   warning  'img' is already defined                                  no-redeclare
+  1115:10  warning  'src' is already defined                                  no-redeclare
+  1125:4   warning  'checkCircuit2' is not defined                            no-undef
+  1126:9   warning  'theorem1c' is not defined                                no-undef
+  1128:4   warning  Mixed spaces and tabs                                     no-mixed-spaces-and-tabs
+  1129:4   warning  Mixed spaces and tabs                                     no-mixed-spaces-and-tabs
+  1130:5   warning  'change8' is not defined                                  no-undef
+  1135:5   warning  'change9' is not defined                                  no-undef
+  1169:8   warning  'po' is already defined                                   no-redeclare
+  1172:8   warning  'a' is already defined                                    no-redeclare
+  1188:9   warning  'left' is already defined                                 no-redeclare
+  1191:8   warning  'p' is already defined                                    no-redeclare
+  1193:8   warning  'r' is already defined                                    no-redeclare
+  1195:8   warning  'q' is already defined                                    no-redeclare
+  1199:9   warning  'img' is already defined                                  no-redeclare
+  1203:10  warning  'src' is already defined                                  no-redeclare
+  1213:4   warning  'checkCircuit' is not defined                             no-undef
+  1241:5   warning  'change10' is not defined                                 no-undef
+  1247:4   warning  'change11' is not defined                                 no-undef
+  1254:8   warning  'po' is already defined                                   no-redeclare
+  1256:8   warning  'a' is already defined                                    no-redeclare
+  1272:9   warning  'left' is already defined                                 no-redeclare
+  1275:8   warning  'p' is already defined                                    no-redeclare
+  1277:8   warning  'r' is already defined                                    no-redeclare
+  1279:8   warning  'q' is already defined                                    no-redeclare
+  1283:9   warning  'img' is already defined                                  no-redeclare
+  1287:10  warning  'src' is already defined                                  no-redeclare
+  1298:4   warning  'checkCircuit3' is not defined                            no-undef
+  1299:8   warning  'theorem1c' is not defined                                no-undef
+  1329:5   warning  'change13' is not defined                                 no-undef
+  1335:5   warning  'change12' is not defined                                 no-undef
+  1343:8   warning  'po' is already defined                                   no-redeclare
+  1345:8   warning  'a' is already defined                                    no-redeclare
+  1361:9   warning  'left' is already defined                                 no-redeclare
+  1364:8   warning  'p' is already defined                                    no-redeclare
+  1366:8   warning  'r' is already defined                                    no-redeclare
+  1368:8   warning  'q' is already defined                                    no-redeclare
+  1372:8   warning  'img' is already defined                                  no-redeclare
+  1376:10  warning  'src' is already defined                                  no-redeclare
+  1385:4   warning  'checkCircuit4' is not defined                            no-undef
+  1406:3   warning  'change14' is not defined                                 no-undef
+  1411:3   warning  'change15' is not defined                                 no-undef
+  1417:3   warning  'change16' is not defined                                 no-undef
+  1423:8   warning  'po' is already defined                                   no-redeclare
+  1425:8   warning  'a' is already defined                                    no-redeclare
+  1441:9   warning  'left' is already defined                                 no-redeclare
+  1444:8   warning  'p' is already defined                                    no-redeclare
+  1446:8   warning  'r' is already defined                                    no-redeclare
+  1448:8   warning  'q' is already defined                                    no-redeclare
+  1452:9   warning  'img' is already defined                                  no-redeclare
+  1456:10  warning  'src' is already defined                                  no-redeclare
+  1483:4   warning  'checkCircuit5' is not defined                            no-undef
+  1486:3   warning  'change17' is not defined                                 no-undef
+  1491:3   warning  'change18' is not defined                                 no-undef
+  1496:3   warning  'change19' is not defined                                 no-undef
+  1503:7   warning  'po' is already defined                                   no-redeclare
+  1505:8   warning  'a' is already defined                                    no-redeclare
+  1521:9   warning  'left' is already defined                                 no-redeclare
+  1524:8   warning  'p' is already defined                                    no-redeclare
+  1526:8   warning  'r' is already defined                                    no-redeclare
+  1528:8   warning  'q' is already defined                                    no-redeclare
+  1532:9   warning  'img' is already defined                                  no-redeclare
+  1536:10  warning  'src' is already defined                                  no-redeclare
+  1546:4   warning  'checkCircuit4' is not defined                            no-undef
+  1547:8   warning  'theorem1c' is not defined                                no-undef
+  1553:3   warning  'change20' is not defined                                 no-undef
+  1558:3   warning  'change21' is not defined                                 no-undef
+  1582:3   warning  'change22' is not defined                                 no-undef
+  1589:8   warning  'po' is already defined                                   no-redeclare
+  1591:8   warning  'a' is already defined                                    no-redeclare
+  1607:9   warning  'left' is already defined                                 no-redeclare
+  1610:8   warning  'p' is already defined                                    no-redeclare
+  1612:8   warning  'r' is already defined                                    no-redeclare
+  1614:8   warning  'q' is already defined                                    no-redeclare
+  1618:9   warning  'img' is already defined                                  no-redeclare
+  1622:10  warning  'src' is already defined                                  no-redeclare
+  1632:4   warning  'checkCircuit4' is not defined                            no-undef
+  1633:8   warning  'theorem1c' is not defined                                no-undef
+  1639:3   warning  'change23' is not defined                                 no-undef
+  1645:3   warning  'change24' is not defined                                 no-undef
+  1651:3   warning  'change25' is not defined                                 no-undef
+  1691:64  warning  Unnecessary semicolon                                     no-extra-semi
+  1705:13  warning  'pop' is already defined                                  no-redeclare
+  1759:64  warning  Unnecessary semicolon                                     no-extra-semi
+  1775:7   warning  'pop' is already defined                                  no-redeclare
+  1827:64  warning  Unnecessary semicolon                                     no-extra-semi
+  1840:9   warning  'pop' is already defined                                  no-redeclare
+  1892:64  warning  Unnecessary semicolon                                     no-extra-semi
+  1905:9   warning  'pop' is already defined                                  no-redeclare
+  1958:64  warning  Unnecessary semicolon                                     no-extra-semi
+  1971:8   warning  'pop' is already defined                                  no-redeclare
+  2024:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2037:9   warning  'pop' is already defined                                  no-redeclare
+  2090:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2103:9   warning  'pop' is already defined                                  no-redeclare
+  2161:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2174:9   warning  'pop' is already defined                                  no-redeclare
+  2233:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2246:9   warning  'pop' is already defined                                  no-redeclare
+  2307:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2319:9   warning  'pop' is already defined                                  no-redeclare
+  2378:64  warning  Unnecessary semicolon                                     no-extra-semi
+  2391:9   warning  'pop' is already defined                                  no-redeclare
+  2427:10  warning  'reset' is defined but never used                         no-unused-vars
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/segment-display.js
+   40:2   warning  Unnecessary semicolon   no-extra-semi
+   96:16  warning  'i' is already defined  no-redeclare
+  146:13  warning  'x' is already defined  no-redeclare
+  147:13  warning  'y' is already defined  no-redeclare
+  170:13  warning  'x' is already defined  no-redeclare
+  171:13  warning  'y' is already defined  no-redeclare
+  515:11  warning  'y' is already defined  no-redeclare
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/sizzle.js
+   171:15  warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+   230:45  warning  Empty block statement                                                      no-empty
+  1547:28  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2464:38  warning  'define' is not defined                                                    no-undef
+  2465:2   warning  'define' is not defined                                                    no-undef
+  2470:46  warning  'module' is not defined                                                    no-undef
+  2471:2   warning  'module' is not defined                                                    no-undef
+
+/home/runner/work/exp-familiarization-of-ics-iitr/exp-familiarization-of-ics-iitr/experiment/simulation/js/sizzle.min.js
+  2:1786   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:2269   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:2493   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:3001   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:3772   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:5773   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6073   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:8076   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:8644   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:8682   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9667   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9979   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11796  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12067  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12639  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:13329  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15865  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15965  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16025  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:17384  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:17996  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18107  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20001  warning  'define' is not defined                                                    no-undef
+  2:20012  warning  'define' is not defined                                                    no-undef
+  2:20070  warning  'module' is not defined                                                    no-undef
+  2:20085  warning  'module' is not defined                                                    no-undef
+
+✖ 1160 problems (1 error, 1159 warnings)
+  0 errors and 36 warnings potentially fixable with the `--fix` option.
+
